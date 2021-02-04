@@ -2,12 +2,12 @@
 
 <h3> Um deploy aotomático feito com alunos do itaú </h3>
 
-<h5>Tentar sempre, desistir jamais!!!<h5>
-  
-<h1>testando!!!<h1>
-<h1>Tentar sempre, desistir as vezes!!!<h1>
-<h1>QUERO DELETAR TUDO </h1>
+<div style="display:flex">
+  <div style="width:200px;height:200px;background:yellow;padding:50px;margin:10px">
+    Um teste em um quadrado
+  </div>
 
-<div style="width:200px;height:200px;background:yellow">
-  Um teste em um quadrado
+  <div style="width:200px;height:200px;background:blue;color:white;padding:50px;margin:10px">
+    Um teste em um quadrado
+  </div>
 </div>
